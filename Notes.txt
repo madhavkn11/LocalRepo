@@ -1,0 +1,1 @@
+git checkout #branchname //To exit from 1 branch and enter another branch
